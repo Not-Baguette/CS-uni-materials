@@ -2,7 +2,7 @@
 materials for my uni studies
 
 ## How to use this material
-- Lihat aja apa yang bakal dipelajarin dalam modul. Pelajarin secara independen. Resources yang menurut gw bagus:
+Lihat aja apa yang bakal dipelajarin dalam modul. Pelajarin secara independen. Resources yang menurut gw bagus:
 
 ### Beginner/Pemula
 Kalo baru mulai, mendingan Belajar C dari C Programming full course dibawah karena sekalian sama materi semester 1.
