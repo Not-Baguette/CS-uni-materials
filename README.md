@@ -18,6 +18,7 @@ Kalo udh bisa koding, perdalem teorinya. Terutama Algoritma kayak sorting dan da
 
 ### Advanced/Jago
 kalo udh jago napain baca ini, baca aja dokumentasinya abis itu gas :v
+![Blue archive jumpscare](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/ichika.jpg)
 
 ## How did I get this material
 - I crosscompared it with some files within the University public database with the curriculum I was given with. This gives me an in-depth knowledge of the curriculum and what will it teach
