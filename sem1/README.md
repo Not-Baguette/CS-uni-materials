@@ -130,6 +130,7 @@ Materi yang akan dipelajari:
 - 40% Assignment & Quiz
 - 25% Ujian Tengah Semester 
 - 35% Ujian Akhir
+
 **KKM:** 55 (C)
 
 **Materi:**
@@ -287,7 +288,7 @@ Mempelajari untuk memikirkan Etika, Sensitivitas Sosial, efek non-teknikal, Kese
 - 56.04 hours of self-study and assignments in the form of mini projects.
 - 11.34 hours related to exam and self study
 
-**Asasmen:**
+**Asasmen:** Lecture, Discussion, Pembelajaran Independen 
 
 **Distribution:**
 - 30% Aktivitas Sebelum/Sesudah Kelas
