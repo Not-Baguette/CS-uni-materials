@@ -256,7 +256,7 @@ Memahami moral dan menghormati perbedaan dengan menerima agama, norma, moral lai
 ---
 
 ### Civics - UM163
-[Click Here for the Full Module]()
+[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Module-Handbook-07-UM163-Civics.pdf)
 
 Materi yang akan dipelajari:
 Mempelajari untuk memikirkan Etika, Sensitivitas Sosial, efek non-teknikal, Kesehatan, keamanan, dan legalitas dalam aktivitas.
@@ -301,4 +301,38 @@ Mempelajari untuk memikirkan Etika, Sensitivitas Sosial, efek non-teknikal, Kese
 14. Iswan Kaputra, Dampak Otonomi Daerah di Indonesia: Merangkai Sejarah Politik dan Pemerintahan Indonesia. Obor. Jakarta. 2013
 15. [John Locke. Two Treatises on Government and a Letter Concerning Toleration. Editor Ian Saphiro. Yale University Press. Connecticut. 2003](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Locke.pdf)
 16. Koninlijk Nederland. Territoriale Zee en Marietieme Kringen Ordonantie. S. 442. 1939
+---
+### English - UM1122
+[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM122/Module-Handbook-04-UM122-English-1.pdf)
+
+Materi yang akan dipelajari:
+Vocab, Pronunciation, Sentence construction, reading for academic writing
+
+**Pemegang Modul:** Floreance Sahertian, Retnowati, Hendra Lim, Sylvie Meiliana, Rohaniyatul Makniyah
+
+**Metode Pembelajaran**: Lecture, Pembelajaran Independen
+
+**Bahasa**: English
+
+**SKS:** 2 SKS (3.36 ECTS)
+
+**Jumblah Jam:** 90.72 Jam
+- 23.34 hours of synchronous lecture.
+- 56.04 hours of self-study and assignments in the form of mini projects.
+- 11.34 hours related to exam and self study
+
+**Asasmen:** Written Test
+
+**Distribution:**
+- 30% Quiz & Assignment
+- 25% Ujian Tengah Semester
+- 35% Ujian Akhir
+- 10% Afektif
+
+**KKM:** 55 (C)
+
+**Materi:**
+1. Skillfull Reading and Writing MacMillan Academic Series by Mike Boyle and Lindsay Warwick - MacMillan Education London 2016.
+2. Online exercises from macmillanskillfull.com
+3. Forum Magazines, online article and Some videos from Youtube
 ---
