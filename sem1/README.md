@@ -1,6 +1,8 @@
 ## Semester 1
 
 ### Programming Fundamentals - IF130
+![Programming Fundamentals](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/programming.jpg)
+
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/IF130/Module-Handbook-24-IF130-Programming-Fundamentals.pdf)
 
 Materi yang akan dipelajari:
@@ -45,6 +47,8 @@ Materi yang akan dipelajari:
 ---
 
 ### Discrete Mathematics - IF120
+![Discrete Math](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/discretemath.jpg)
+
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/IF120/Module-Handbook-26-IF120-Discrete-Mathematics.pdf)
 
 Materi yang akan dipelajari:
@@ -97,6 +101,8 @@ Materi yang akan dipelajari:
 ---
 
 ### Linear Algebra - CE121
+![God please dont](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/what.png)
+
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE121/Module-Handbook-28-CE121-Linear-Algebra.pdf)
 
 Materi yang akan dipelajari:
@@ -132,6 +138,8 @@ Materi yang akan dipelajari:
 ---
 
 ### Digital Systems - CE232
+![Digital System](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/digitalsys.jpg)
+
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE232/Module-Handbook-33-CE232-Digital-Systems.pdf)
 
 Materi yang akan dipelajari:
@@ -175,6 +183,8 @@ digital systems; number systems, logic gates, digital circuits (sequential, comb
 ---
 
 ### Pancasila - UM162
+!Pancasila[](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/pancasila.jpg)
+
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM162/Module-Handbook-01-UM162-Pancasila.pdf)
 
 Materi yang akan dipelajari:
@@ -211,6 +221,7 @@ Materi yang akan dipelajari:
 ---
 
 ### Religion - UM152
+![Dove](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/religion.png)
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM152/Module-Handbook-02-UM152-Religion.pdf)
 
 Materi yang akan dipelajari:
@@ -256,6 +267,8 @@ Memahami moral dan menghormati perbedaan dengan menerima agama, norma, moral lai
 ---
 
 ### Civics - UM163
+![Civics](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/civics.jpeg)
+
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Module-Handbook-07-UM163-Civics.pdf)
 
 Materi yang akan dipelajari:
@@ -303,6 +316,8 @@ Mempelajari untuk memikirkan Etika, Sensitivitas Sosial, efek non-teknikal, Kese
 16. Koninlijk Nederland. Territoriale Zee en Marietieme Kringen Ordonantie. S. 442. 1939
 ---
 ### English - UM1122
+![fancy me a cup of tea m8](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/UK.png)
+
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM122/Module-Handbook-04-UM122-English-1.pdf)
 
 Materi yang akan dipelajari:
@@ -335,4 +350,3 @@ Vocab, Pronunciation, Sentence construction, reading for academic writing
 1. Skillfull Reading and Writing MacMillan Academic Series by Mike Boyle and Lindsay Warwick - MacMillan Education London 2016.
 2. Online exercises from macmillanskillfull.com
 3. Forum Magazines, online article and Some videos from Youtube
----
