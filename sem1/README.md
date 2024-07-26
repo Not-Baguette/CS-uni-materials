@@ -2,6 +2,7 @@
 
 ### Programming Fundamentals - IF130
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/IF130/Module-Handbook-24-IF130-Programming-Fundamentals.pdf)
+
 Materi yang akan dipelajari:
 1. Algorithm
 2. Selection control structure: definition, flowchart and pseudocode
@@ -45,6 +46,7 @@ Materi yang akan dipelajari:
 
 ### Discrete Mathematics - IF120
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/IF120/Module-Handbook-26-IF120-Discrete-Mathematics.pdf)
+
 Materi yang akan dipelajari:
 1. Sets
 2. Logic
@@ -96,6 +98,7 @@ Materi yang akan dipelajari:
 
 ### Linear Algebra - CE121
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE121/Module-Handbook-28-CE121-Linear-Algebra.pdf)
+
 Materi yang akan dipelajari:
 - Linear combination,
 - Linear independence,
@@ -130,6 +133,7 @@ Materi yang akan dipelajari:
 
 ### Digital Systems - CE232
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE232/Module-Handbook-33-CE232-Digital-Systems.pdf)
+
 Materi yang akan dipelajari:
 digital systems; number systems, logic gates, digital circuits (sequential, combinational), digital data format, and metode untuk mendesign system digital mudah:
 1. Introduction to digital systems
@@ -168,4 +172,133 @@ digital systems; number systems, logic gates, digital circuits (sequential, comb
 
 **Materi:**
 1. [M. Morris Mano, Digital Design, 6th Edition, Pearson, 2018](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE232/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20(2nd%20Edition).pdf)
+---
+
+### Pancasila - UM162
+[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM162/Module-Handbook-01-UM162-Pancasila.pdf)
+
+Materi yang akan dipelajari:
+- Pancasila sebagai dasar filosofi (philosophical grondslag),
+- Jiwa Bangsa (volksgeist) atau Identitas Bangsa (innerself of nation),
+- ideologi Indonesia, and
+- Gaya kehidupan yang benar sebagai Warga Indonesia.
+
+**Pemegang Modul:** Suhendra, Simon Petrus Wenehenebun
+
+**Metode Pembelajaran**: Lecture, Diskusi, Pembelajaran Independen
+
+**Bahasa**: Indonesia
+
+**SKS:** 2 SKS (3.36 ECTS)
+
+**Jumblah Jam:** 90.72
+- 23.34 hours of synchronous lecture.
+- 56.04 hours of self-study and assignments in the form of mini projects.
+- 11.34 hours related to exam and self study
+
+**Asasmen:** Written Test & Performa
+
+**Distribution:**
+- 30% Assignment
+- 20% Ujian Tengah Semester
+- 30% Ujian Akhir
+- 20% Sikap
+
+**KKM:** 55 (C)
+
+**Materi:**
+1. [Majalah Sejarah Populer Daring](https://historia.id/)
+---
+
+### Religion - UM152
+[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM152/Module-Handbook-02-UM152-Religion.pdf)
+
+Materi yang akan dipelajari:
+Memahami moral dan menghormati perbedaan dengan menerima agama, norma, moral lain.
+
+**Pemegang Modul:** Henry Stephen Sabari, Simon Wenehen, Ignasius Joko Suyanto, Christian Siregar, Johannes Mitakda
+
+**Metode Pembelajaran**: Lecture, Discussion, Pembelajaran Independen
+
+**Bahasa**: Indonesia
+
+**SKS:** 2 SKS (3.36 ECTS)
+
+**Jumblah Jam:** 90.72
+- 23.34 hours of synchronous lecture.
+- 56.04 hours of self-study and assignments in the form of mini projects.
+- 11.34 hours related to exam and self study
+
+**Asasmen:** Written Test & Performa
+
+**Distribution:**
+- 25% Assignment
+- 25% Ujian Tengah Semester
+- 30% Ujian Akhir Semester
+- 20% Sikap & Quiz
+
+**KKM:** 55 (C)
+
+**Materi: (i give up on this one)**
+1. Pendidikan Religiositas, Jakarta: UMN Press, 2018.
+2. [Karen Amstrong, A Short History of Myth, Edinburg: Pentagram, 2005.](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM152/Karen%20Armstrong%20A%20Short%20History%20of%20Myth.pdf)
+3. Olaf Schuman Dkk, Agama-Agama Memasuki Milenium Ketiga. Jakarta: Grasindo.2000
+4. Allan Menzies. History of Religion. Yogyakarta: Indoloterasi.2015
+5. Mukti Ali, Agama-agama di Dunia (Yog-yakarta: IAIN Sunan Kalijaga Press, 1988).
+6. Mariasusai Dhavamony: Fenomenologi Agama: Yogyakarta: Kanisius. 1995
+7. Dr. R. Soekmono: Pengantar Sejarah Kebudayaan Indonesia. Yogyakarta: Kanisius. 1981
+8. Agus.M. Hardjana: Religiositas, Agama, Spiritualitas. Yogyakarta: Kanisius. 2005.
+9. Al. Andang: Agama yang Berpijak dan Berpihak. Yogyakarta: Kanisius. 1998.
+10. Franz Magnis- Suseno: Menalar Tuhan. Yogyakarta: Kanisius. 2006
+11. Albertus Sujoko, MSC: Belajar Menjadi Manusia. Yogyakarta: Kanisius. 2008
+12. Antonius A. Gea, Relasi dengan Tuhan, Jakarta: Elex Media Komputindo, 2006.
+13. Fisdelis E. Waruwu, Membangun Budaya Berbasis Nilai, Yogyakarta: Kanisius, 2010.
+---
+
+### Civics - UM163
+[Click Here for the Full Module]()
+
+Materi yang akan dipelajari:
+Mempelajari untuk memikirkan Etika, Sensitivitas Sosial, efek non-teknikal, Kesehatan, keamanan, dan legalitas dalam aktivitas.
+
+**Pemegang Modul:** KANON MOMMSEN WONGKAR, SRI HUTOMO, IWAN IRAWAN, AGUSTINUS SUGENG AGUS PRIYONO, QUSTHAN ABQARY HISAN FIRDAUS, FERRY DORINGIN, LAMBERTUS BERTO TUKAN, DAVID TOBING
+
+**Metode Pembelajaran**: Lecture, Discussion, Pembelajaran Independen
+
+**Bahasa**: Indonesia
+
+**SKS:** 2 SKS (3.36 ECTS)
+
+**Jumblah Jam:** 90.72
+- 23.34 hours of synchronous lecture.
+- 56.04 hours of self-study and assignments in the form of mini projects.
+- 11.34 hours related to exam and self study
+
+**Asasmen:**
+
+**Distribution:**
+- 30% Aktivitas Sebelum/Sesudah Kelas
+- 10% Aktivitas 
+- 25% Ujian Tengah Semester
+- 35% Ujian Akhir
+
+**KKM:** 55 (C)
+
+**Materi:**
+1. [Alexander Frederik de Savornin Lohman. Onze Constitutie. Kemink, Utrecht. 1901](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Onze%20Constitutie.pdf)
+2. [Alexandros Stogiannos. The Genesis of Geopolitics and Friedrich Ratzel – Dismissing the Myth of Ratzelian Geodeterminism. Springer. Geneve. 2019](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/The%20Genesis%20of%20Geopolitics%20and%20Friedrich%20Ratzel-%20Dismissing%20--%20Alexandros%20Stogiannos%20--%20Historical%20Geography%20and%20Geosciences%2C%201st%20ed_%2C%202019%20--%209783319980348%20--%2006dfcd111564a661548e3ee0291a019d%20--%20Anna%E2%80%99s%20Archive.pdf)
+3. [A. V. Dicey. An Introduction to The Study Of The Law Of The Constitution. Tenth Edition. Macmillan Press. London and Basingstoke. Reprinted 1979](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/An%20Introduction%20to%20The%20Study%20Of%20The%20Law%20Of%20The%20Constitution_compressed.pdf)
+4. [Bikhu Parekh. Rethinking Multiculturalism – Cultural Diversity and Political Theory. Macmillan. London. 2000](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Parekh_Rethinking_multiculturalism.pdf)
+5. [Brian W. Blouet ed. Global Geostrategy. Mackinder and The Defence Of The West. Frank Cass. London New York. 2005](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/global-geostrategy-mackinder-and-the-defence-of-the-west-9780714685755-0714685755_compress.pdf)
+6. [C.F. Strong. A History of Modern Political Constitution. GP Putnam & Sons. New York. 1963](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/A%20history%20of%20modern%20political%20constitution%20--%20ff9be9c2b512e1a249a424bec821c0cf%20--%20Anna%E2%80%99s%20Archive_2.pdf)
+7. [Charles Louis De Secondat Baron De Montesquieu. De L’Esprit Des Loix. Chez Barilot Et Fils. Geneve. 1758](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Montesquieu%20-%2004%20L'esprit%20des%20lois.pdf)
+8. [Daniel PS Goh, Matilda Gabrielpillai, Philip Holden, dan Gaik Cheng Khoo eds. Race and Multiculturalism in Malaysia and Singapore. Routhledge. Oxon. 2009](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Multiculturalism%20in%20Malaysia%20and%20singapore.pdf)
+9. [Derek Heater, A History of Education For Citizenship. RoutledgeFalmer. New York. 2004](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/E103_%20History%20of%20and%20Philosophy%20of%20Education%20%5BDerek%20Heater%5D%20A%20History%20of%20Education%20for%20Citizens%20(BookFi).pdf)
+10. [Direktorat Diseminasi Informasi, Deputi Pencegahan BNN. Buku Panduan Pencegahan penyalahgunaan Narkoba Sejak Dini. BNN. Jakarta. 2012](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Buku-Pencegahan-Narkoba-Sejak-Usia-Dini.pdf)
+11. [Douglas W. Blum. National Identity and Globalization – Youth, State, and Society in Post-Soviet Eurasia. Cambridge University Press. Cambridge. 2007](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/National%20Identity%20and%20Globalization.pdf)
+12. [Graham Brooks, David Walsh, Chris Lewis, dan Hakkyong Kim. Preventing Corruption – Investigation, Enforcement, and Governance. Palgrave Macmillan. New York. 2013](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Preventing%20Corruption%20%E2%80%93%20Investigation%2C%20Enforcement%2C%20and%20Governance.pdf)
+13. [Hans Kelsen. Reine Rechtslehre. Osterreichische Staatsdrukerei. Wien. 1992](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/TEORI_HANS_KELSEN_TENTANG_HUKUM.pdf)
+14. Iswan Kaputra, Dampak Otonomi Daerah di Indonesia: Merangkai Sejarah Politik dan Pemerintahan Indonesia. Obor. Jakarta. 2013
+15. [John Locke. Two Treatises on Government and a Letter Concerning Toleration. Editor Ian Saphiro. Yale University Press. Connecticut. 2003](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Locke.pdf)
+16. Koninlijk Nederland. Territoriale Zee en Marietieme Kringen Ordonantie. S. 442. 1939
 ---
