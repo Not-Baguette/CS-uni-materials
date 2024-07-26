@@ -2,8 +2,19 @@
 materials for my uni studies
 
 ## How to use this material
-Lihat aja apa yang bakal dipelajarin dalam modul. Pelajarin secara independen. Resources yang menurut gw bagus:
+Lihat aja apa yang bakal dipelajarin dalam modul. Pelajarin secara independen. 
+List Semester (Baru bikin semester 1):
+1. [Semester 1](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/README.md)
+2. Semester 2
+3. Semester 3
+4. Semester 4
+5. Semester 5
+6. Semester 6
+7. Semester 7
+8. Semester 8
 
+
+## Other Resources
 ### Beginner/Pemula
 Kalo baru mulai, mendingan Belajar C dari C Programming full course dibawah karena sekalian sama materi semester 1.
 - [CS50x (Agak intensif)](https://cs50.harvard.edu/x/2024/weeks/)
