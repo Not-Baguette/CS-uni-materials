@@ -9,6 +9,7 @@ materials for my uni studies
 | 3. | [Other Resources](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#other-resources) |
 | 4. | [Aplikasi-aplikasi untuk Kuliahan](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#aplikasi-aplikasi-untuk-kuliahan)
 | 5. | [Body of Knowledge Informatics Study Programme](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#body-of-knowledge-informatics-study-programme) |
+| 6. | [How did I get this material](#how-did-i-get-this-material)
 
 ---
 
@@ -119,10 +120,19 @@ Body of Knowledge in Informatics study programme are:
 
 ## Aplikasi-aplikasi untuk Kuliahan
 ### Android
-WIP
+- Music
+   - [Spotube](https://spotube.krtirtho.dev/), Frontend Spotify. Bisa download music, Liat lyrics, dan log in biar bisa play playlist dsb.
+   - [SpMP](https://github.com/toasterofbread/spmp), Frontend Youtube Music. Bisa buat download lagu gratis.
+     
+- Entertainment
+   - [Youtube Revanced](https://revanced.app/), Youtube tanpa Advertizing + Kustomisasi
 
 ### PC
-WIP
+- Music
+   - [Th-ch's Youtube Music](https://th-ch.github.io/youtube-music/)
+   - [Spotube](https://spotube.krtirtho.dev/), Frontend Spotify. Bisa download music, Liat lyrics, dan log in biar bisa play playlist dsb.
+- Entertainment
+   - [uBlock Origin](https://ublockorigin.com/), Adblocker
 
 ---
 
