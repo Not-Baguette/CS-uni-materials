@@ -5,8 +5,7 @@
 | Status | Code | Course | Credits (SKS) | Minimum Passing Grade (KKM) | Description | Prerequisite
 | --- | --- | --- | --- | --- | --- | ---
 | Compulsory (Wajib) | [IF260](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem2/IF260/Module-Handbook-20-IF260-Operating-System.pdf) | [Operating System](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem2#operating-system---if260) | 3 SKS (5.04 ECTS) | 55 (C) | This course covers operating systems, processes and threads, concurrency, process scheduling, memory management, multiprocessor, process synchronization, device settings, deadlock and solving, and file systems. | N/A
-| Compulsory (Wajib) | IF232 | Data Structure & Algorithm | 4 SKS (6.72 ECTS) | 55 (C) | This course equips students
-with knowledge of algorithms and data structures in programming. | [IF130 Programming Fundamentals](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#programming-fundamentals---if130)
+| Compulsory (Wajib) | [IF232](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem2/IF232/Module-Handbook-22-IF232-Algorithms-_-Data-Structure.pdf) | [Data Structure & Algorithm](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem2#algorithm--data-structure---if232) | 4 SKS (6.72 ECTS) | 55 (C) | This course equips students with knowledge of algorithms and data structures in programming. | [IF130 Programming Fundamentals](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#programming-fundamentals---if130)
 
 ### Operating System - IF260
 ![OS](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/OsVS.jpg)
