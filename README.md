@@ -7,19 +7,24 @@ materials for my uni studies
 | 1. | [How to use this material](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#how-to-use-this-material) |
 | 2. | [Very short Guide for Laptops](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#very-short-guide-for-laptops) |
 | 3. | [Other Resources](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#other-resources) |
-| 4. | [Body of Knowledge Informatics Study Programme](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#body-of-knowledge-informatics-study-programme) |
+| 4. | [Aplikasi-aplikasi untuk Kuliahan](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#aplikasi-aplikasi-untuk-kuliahan)
+| 5. | [Body of Knowledge Informatics Study Programme](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#body-of-knowledge-informatics-study-programme) |
+
+---
 
 ## How to use this material
 Lihat aja apa yang bakal dipelajarin dalam modul. Pelajarin secara independen. 
-List Semester (Baru bikin semester 1):
+List Semester (Baru bikin semester 1 & 2):
 1. [Semester 1](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/README.md)
-2. [Semester 2](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem2/README.md) (Work in Progress)
-3. Semester 3
+2. [Semester 2](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem2/README.md)
+3. Semester 3 (Coming soon)
 4. Semester 4
 5. Semester 5
 6. Semester 6
 7. Semester 7
 8. Semester 8
+
+---
 
 ## Very short Guide for Laptops
 ### Brand
@@ -49,6 +54,8 @@ List Semester (Baru bikin semester 1):
   - Storage: 1/2TB SSD NVME
   - GPU: N/A, Kalo bisa jangan Integrated Graphics (Cth Integrated Graphics: Intel Iris XE, dsb.)
   - VRAM: 8GB
+
+---
 
 ## Other Resources
 ### Beginner/Pemula
@@ -108,6 +115,16 @@ Body of Knowledge in Informatics study programme are:
 
 ![Fig1](https://github.com/user-attachments/assets/657bc5b3-6b19-4aea-be16-67657c2e9655)
 
+---
+
+## Aplikasi-aplikasi untuk Kuliahan
+### Android
+WIP
+
+### PC
+WIP
+
+---
 
 ## How did I get this material
 - I crosscompared it with some files within the University public database with the curriculum I was given with. This gives me an in-depth knowledge of the curriculum and what will it teach. There **might be some differences** on the modules or the 2024 curriculum but it should be pretty close.
