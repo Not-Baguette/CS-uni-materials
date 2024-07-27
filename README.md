@@ -29,7 +29,7 @@ List Semester (Baru bikin semester 1 & 2):
 
 ## Very short Guide for Laptops
 ### Brand
-- Hindarin Brand HP karena Engsel/Hingenya suka patah + Kualitas Buildnya Jelek, Cari palingan Dell/Lenovo. Acer/Asus Juga Oke
+- Hindarin Brand HP karena Engsel/Hingenya suka patah + Kualitas Buildnya Jelek, Cari palingan Dell/Lenovo. Acer/Asus Juga Oke. Hindarin Lenovo seri Yoga juga
 
 ### Modal
 - Modal 20Juta Keatas:
