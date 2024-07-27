@@ -5,7 +5,7 @@ materials for my uni studies
 Lihat aja apa yang bakal dipelajarin dalam modul. Pelajarin secara independen. 
 List Semester (Baru bikin semester 1):
 1. [Semester 1](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/README.md)
-2. Semester 2
+2. [Semester 2](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem2/README.md) (Work in Progress)
 3. Semester 3
 4. Semester 4
 5. Semester 5
@@ -27,7 +27,12 @@ Kalo udh bisa koding, perdalem teorinya. Terutama Algoritma kayak sorting dan da
 - [Data Structure & Algorithms in C](https://www.youtube.com/watch?v=CBYHwZcbD-s)
 - [Data Structure % Algorithms in Python](https://www.youtube.com/watch?v=8hly31xKli0)
 - [Pointers in C](https://youtu.be/DplxIq0mc_Y) (Bagi yang baru belajar bahasa lain kyk Python)
-- Address/malloc/free
+- Operating System (Windows/Mac/Linux)
+- Process/Threads (Pengertian & Multiprocessing/Multithreading)
+- Concurrency (Executing multiple things at once)
+- Process Scheduling (Menentukan urutan dan waktu eksekusi dari proses yang berjalan di komputer)
+- Memory Management (Address/malloc/free)
+- Process Syncronization (Mengontrol akses Sumber Daya beberapa proses agar tidak menhadapi masalah seperti [Race condition](https://www.geeksforgeeks.org/race-condition-vulnerability/) & [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/))
 
 ### Advanced/Jago
 kalo udh jago napain baca ini, baca aja dokumentasinya abis itu gas :v
