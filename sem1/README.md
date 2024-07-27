@@ -1,5 +1,19 @@
 ## Semester 1
 
+### 1st Semester Table
+| Status | Code | Course | Credits (SKS) | Minimum Passing Grade (KKM) | Description | Prerequisite
+| --- | --- | --- | --- | --- | --- | ---
+| Compulsory (Wajib) | [IF130](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/IF130/Module-Handbook-24-IF130-Programming-Fundamentals.pdf) | [Programming Fundamentals](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#programming-fundamentals---if130) | 3 SKS (5.04 ECTS) | 55 (C) | This course discusses the design of structured programs, using flowchart and pseudocode, which includes branching, iteration, desk checking, and modular. | N/A
+| Compulsory (Wajib) | [IF120](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/IF120/Module-Handbook-26-IF120-Discrete-Mathematics.pdf) | [Discrete Mathematics](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#discrete-mathematics---if120) | 3 SKS (5.04 ECTS) | 55 (C) | Discrete Mathematics aims to teach students to know and understand the basic concepts of Discrete Mathematics. Some of the materials taught in this course include the basic ideas of sets; Mathematical logic and proof; basic concepts of functions, sequences, and series; relations and relation matrices; introduction to number theory; calculation method; discrete opportunities; recurrence relation; graph and tree theory; and Boolean algebra and circuit combinatorial. | N/A
+| Compulsory (Wajib) | [CE121](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE121/Module-Handbook-28-CE121-Linear-Algebra.pdf) | [Linear Algebra](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#linear-algebra---ce121) | 3 SKS (5.04 ECTS) | 55 (C) | This course covers matrix theory and linear algebra, emphasizing topics useful in computer engineering field | N/A
+| Compulsory (Wajib) | [CE232](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE232/Module-Handbook-33-CE232-Digital-Systems.pdf) | [Digital System](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#digital-systems---ce232) | 3 SKS (5.04 ECTS) | 55 (C) | This course covers basic digital system including concept of digital system, numbering system and conversion, logic simplification, combination circuit, and sequential circuit | N/A
+| Compulsory (Wajib) | [UM162](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE232/Module-Handbook-33-CE232-Digital-Systems.pdf) | [Pancasila](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#pancasila---um162) | 2 SKS (3.36 ECTS) | 55 (C) | This course discusses Pancasila as the basic values of philosophy (philosophical grondslag), the soul of the nation (volksgeist) or the identity of the nation (innerself of nation), ideology of Indonesia, and way of life of the real Indonesia. | N/A
+| Compulsory (Wajib) | [UM152](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM152/Module-Handbook-02-UM152-Religion.pdf) | [Religion](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#religion---um152) | 2 SKS (3.36 ECTS) | 55 (C) | This course discusses the Divine Godhead as taught by every Religion in Indonesia and its implications on human life, upholding universal values. | N/A
+| Compulsory (Wajib) | [UM163](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Module-Handbook-07-UM163-Civics.pdf) | [Civics](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#civics---um163) | 2 SKS (3.36 ECTS) | 55 (C) | This course develops students' basic competencies to become scientists and professionals who have a sense of nationality and love of the motherland; democratic society; become competent citizens, disciplined, and actively participate in building a peaceful life based on the Pancasila value system.| N/A
+| Compulsory (Wajib) | [UM122](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM122/Module-Handbook-04-UM122-English-1.pdf) | [English 1 : Composition](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#english---um1122) | 2 SKS (3.36 ECTS) | 55 (C) | This course discusses the elements of English to enrich the vocabulary, improve the pronunciation of words and improve students' knowledge related to sentence construction, paragraphs and texts that are focused on the development of reading skills, vocabulary skill-building and vocabulary learning strategies. | N/A
+
+---
+
 ### Programming Fundamentals - IF130
 ![Programming Fundamentals](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/programming.jpg)
 
@@ -184,7 +198,7 @@ digital systems; number systems, logic gates, digital circuits (sequential, comb
 ---
 
 ### Pancasila - UM162
-!Pancasila[](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/pancasila.jpg)
+![Pancasila](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/pancasila.jpg)
 
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM162/Module-Handbook-01-UM162-Pancasila.pdf)
 
@@ -223,6 +237,7 @@ Materi yang akan dipelajari:
 
 ### Religion - UM152
 ![Dove](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/religion.png)
+
 [Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM152/Module-Handbook-02-UM152-Religion.pdf)
 
 Materi yang akan dipelajari:
