@@ -38,15 +38,15 @@ List Semester (Baru bikin semester 1):
 ### Spesifikasi
 - Minimum Spek:
   - CPU: I5 Gen 7 (Kira kira: 2/4 Core & 3.0 GHz)
-  - RAM: 8GB
+  - RAM: 8GB DDR4 (Soldered, Usahain cari yang unsoldered)
   - Storage: 512GB **SSD**
-  - GPU: Terserah asal VRAMnya 2GB Minimum
+  - GPU: Terserah asal VRAMnya 2GB Minimum, Gpp Integrated tapi usahain kalo integrated RAMnya 12/16gb
   - VRAM: 2GB
 
 - Spek Rekomendasi
-  - CPU: I5 Gen 11/12
-  - RAM: 16GB (Unsoldered Biar bisa ganti)
-  - Storage: 1/2TB
+  - CPU: I5 Gen 11/12 (Laporannya Gen 13/14 ada masalah mati mendadak)
+  - RAM: 16GB/32GB DDR4/DDR5 (Unsoldered Biar bisa ganti)
+  - Storage: 1/2TB SSD NVME
   - GPU: N/A, Kalo bisa jangan Integrated Graphics (Cth Integrated Graphics: Intel Iris XE, dsb.)
   - VRAM: 8GB
 
