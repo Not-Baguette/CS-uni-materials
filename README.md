@@ -1,6 +1,14 @@
 # CS-uni-materials
 materials for my uni studies
 
+## Table of Contents
+| No. | Subject |
+| --- | --- |
+| 1. | [How to use this material](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#how-to-use-this-material) |
+| 2. | [Very short Guide for Laptops](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#very-short-guide-for-laptops) |
+| 3. | [Other Resources](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#other-resources) |
+| 4. | [Body of Knowledge Informatics Study Programme](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#body-of-knowledge-informatics-study-programme) |
+
 ## How to use this material
 Lihat aja apa yang bakal dipelajarin dalam modul. Pelajarin secara independen. 
 List Semester (Baru bikin semester 1):
@@ -13,6 +21,34 @@ List Semester (Baru bikin semester 1):
 7. Semester 7
 8. Semester 8
 
+## Very short Guide for Laptops
+### Brand
+- Hindarin Brand HP karena Engsel/Hingenya suka patah + Kualitas Buildnya Jelek, Cari palingan Dell/Lenovo. Acer/Asus Juga Oke
+
+### Modal
+- Modal 20Juta Keatas:
+  - Beli Workstation kelas Bisnis. Targetin Dell Latitude/Precision kalo gak Lenovo Thinkpad (Jangan Seri E/L)
+
+- Modal dibawah 20 Juta:
+  - Cari oalingan Lenovo Ideapad, kalo gak Acer/Asus.
+
+### Note
+- **Hindarin model Gaming.** Bakal Berat dan suka overheating. Kalo bisa jangan model slim juga karena bakal overheat juga. Tapi gpp kalo misalnya ga bisa/ga mau tas berat.
+
+### Spesifikasi
+- Minimum Spek:
+  - CPU: I5 Gen 7 (Kira kira: 2/4 Core & 3.0 GHz)
+  - RAM: 8GB
+  - Storage: 512GB **SSD**
+  - GPU: Terserah asal VRAMnya 2GB Minimum
+  - VRAM: 2GB
+
+- Spek Rekomendasi
+  - CPU: I5 Gen 11/12
+  - RAM: 16GB (Unsoldered Biar bisa ganti)
+  - Storage: 1/2TB
+  - GPU: N/A, Kalo bisa jangan Integrated Graphics (Cth Integrated Graphics: Intel Iris XE, dsb.)
+  - VRAM: 8GB
 
 ## Other Resources
 ### Beginner/Pemula
@@ -74,4 +110,4 @@ Body of Knowledge in Informatics study programme are:
 
 
 ## How did I get this material
-- I crosscompared it with some files within the University public database with the curriculum I was given with. This gives me an in-depth knowledge of the curriculum and what will it teach
+- I crosscompared it with some files within the University public database with the curriculum I was given with. This gives me an in-depth knowledge of the curriculum and what will it teach. There **might be some differences** on the modules or the 2024 curriculum but it should be pretty close.
