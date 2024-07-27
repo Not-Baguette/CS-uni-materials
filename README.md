@@ -33,5 +33,40 @@ Kalo udh bisa koding, perdalem teorinya. Terutama Algoritma kayak sorting dan da
 kalo udh jago napain baca ini, baca aja dokumentasinya abis itu gas :v
 ![Blue archive jumpscare](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/ichika.jpg)
 
+## Body of Knowledge Informatics Study Programme 
+The Informatics study programme is based on curriculum design with the ACM Computing Curricula specification that have been used internationally. The details are as follows and the relationship between study material and topics in Informatics shown in Fig. 1.
+Topics in Informatics Study Programme based on ACM Computing Curricula :
+1. Character Building
+2. Mathematics and Statistics
+3. Algorithms and Programming
+4. Smart System
+5. Software Engineering
+6. Computer Architecture
+7. Distributed System
+8. Life Skills
+   
+Body of Knowledge in Informatics study programme are:
+
+1. Architecture and Organization (AL)
+2. Computational Science (CN)
+3. Discrete Structures (DS)
+4. Graphics and Visualization (GV)
+5. Human Computer Interaction (HCI)
+6. Information Assurance and Security (IAS)
+7. Information Management (IM)
+8. Intelligent System (IS)
+9. Networking and Communication (NC)
+10. Operating Systems (IS)
+11. Platform Based Development (PBD)
+12. Parallel and Distributed Computing (PD)
+13. Programming Languages (PL)
+14. Software Development Fundamentals (SDF)
+15. Software Engineering (SE)
+16. System Fundamentals (SF)
+17. Social Issues and Professional Practice (SP)
+
+![Fig1](https://github.com/user-attachments/assets/657bc5b3-6b19-4aea-be16-67657c2e9655)
+
+
 ## How did I get this material
 - I crosscompared it with some files within the University public database with the curriculum I was given with. This gives me an in-depth knowledge of the curriculum and what will it teach
