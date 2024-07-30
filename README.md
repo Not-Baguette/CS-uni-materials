@@ -4,12 +4,13 @@ materials for my uni studies
 ## Table of Contents
 | No. | Subject |
 | --- | --- |
-| 1. | [How to use this material](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#how-to-use-this-material) |
-| 2. | [Very short Guide for Laptops](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#very-short-guide-for-laptops) |
-| 3. | [Other Resources](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#other-resources) |
-| 4. | [Aplikasi-aplikasi untuk Kuliahan](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#aplikasi-aplikasi-untuk-kuliahan)
-| 5. | [Body of Knowledge Informatics Study Programme](https://github.com/Not-Baguette/CS-uni-materials/tree/main?tab=readme-ov-file#body-of-knowledge-informatics-study-programme) |
-| 6. | [How did I get this material](#how-did-i-get-this-material)
+| 1. | [How to use this material](#how-to-use-this-material) |
+| 2. | [Very short Guide for Laptops](#very-short-guide-for-laptops) |
+| 3. | [Other Resources](#other-resources) |
+| 4. | [Aplikasi-aplikasi untuk Kuliahan](#aplikasi-aplikasi-untuk-kuliahan)
+| 5. | [Body of Knowledge Informatics Study Programme](#body-of-knowledge-informatics-study-programme) |
+| 6. | [Organizational Structure](#organizational-structure)
+| 7. | [How did I get this material](#how-did-i-get-this-material)
 
 ---
 
@@ -18,7 +19,7 @@ Lihat aja apa yang bakal dipelajarin dalam modul. Pelajarin secara independen.
 List Semester (Baru bikin semester 1 & 2):
 1. [Semester 1](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/README.md)
 2. [Semester 2](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem2/README.md)
-3. Semester 3 (Coming soon)
+3. [Semester 3](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem2/README.md) (WIP, Lacking in information as the curriculum becomes more specific. Will be requesting for more data soon)
 4. Semester 4
 5. Semester 5
 6. Semester 6
@@ -133,6 +134,10 @@ Body of Knowledge in Informatics study programme are:
    - [Spotube](https://spotube.krtirtho.dev/), Frontend Spotify. Bisa download music, Liat lyrics, dan log in biar bisa play playlist dsb.
 - Entertainment
    - [uBlock Origin](https://ublockorigin.com/), Adblocker
+
+---
+## Organizational Structure
+![Organization Structure](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/orgstruct.png)
 
 ---
 
