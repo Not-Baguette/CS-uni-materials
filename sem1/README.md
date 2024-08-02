@@ -3,21 +3,21 @@
 ### 1st Semester Table
 | Status | Code | Course | Credits (SKS) | Minimum Passing Grade (KKM) | Description | Prerequisite
 | --- | --- | --- | --- | --- | --- | ---
-| Compulsory (Wajib) | [IF130](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/IF130/Module-Handbook-24-IF130-Programming-Fundamentals.pdf) | [Programming Fundamentals](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#programming-fundamentals---if130) | 3 SKS (5.04 ECTS) | 55 (C) | This course discusses the design of structured programs, using flowchart and pseudocode, which includes branching, iteration, desk checking, and modular. | N/A
-| Compulsory (Wajib) | [IF120](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/IF120/Module-Handbook-26-IF120-Discrete-Mathematics.pdf) | [Discrete Mathematics](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#discrete-mathematics---if120) | 3 SKS (5.04 ECTS) | 55 (C) | Discrete Mathematics aims to teach students to know and understand the basic concepts of Discrete Mathematics. Some of the materials taught in this course include the basic ideas of sets; Mathematical logic and proof; basic concepts of functions, sequences, and series; relations and relation matrices; introduction to number theory; calculation method; discrete opportunities; recurrence relation; graph and tree theory; and Boolean algebra and circuit combinatorial. | N/A
-| Compulsory (Wajib) | [CE121](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE121/Module-Handbook-28-CE121-Linear-Algebra.pdf) | [Linear Algebra](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#linear-algebra---ce121) | 3 SKS (5.04 ECTS) | 55 (C) | This course covers matrix theory and linear algebra, emphasizing topics useful in computer engineering field | N/A
-| Compulsory (Wajib) | [CE232](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE232/Module-Handbook-33-CE232-Digital-Systems.pdf) | [Digital System](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#digital-systems---ce232) | 3 SKS (5.04 ECTS) | 55 (C) | This course covers basic digital system including concept of digital system, numbering system and conversion, logic simplification, combination circuit, and sequential circuit | N/A
-| Compulsory (Wajib) | [UM162](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE232/Module-Handbook-33-CE232-Digital-Systems.pdf) | [Pancasila](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#pancasila---um162) | 2 SKS (3.36 ECTS) | 55 (C) | This course discusses Pancasila as the basic values of philosophy (philosophical grondslag), the soul of the nation (volksgeist) or the identity of the nation (innerself of nation), ideology of Indonesia, and way of life of the real Indonesia. | N/A
-| Compulsory (Wajib) | [UM152](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM152/Module-Handbook-02-UM152-Religion.pdf) | [Religion](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#religion---um152) | 2 SKS (3.36 ECTS) | 55 (C) | This course discusses the Divine Godhead as taught by every Religion in Indonesia and its implications on human life, upholding universal values. | N/A
-| Compulsory (Wajib) | [UM163](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Module-Handbook-07-UM163-Civics.pdf) | [Civics](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#civics---um163) | 2 SKS (3.36 ECTS) | 55 (C) | This course develops students' basic competencies to become scientists and professionals who have a sense of nationality and love of the motherland; democratic society; become competent citizens, disciplined, and actively participate in building a peaceful life based on the Pancasila value system.| N/A
-| Compulsory (Wajib) | [UM122](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM122/Module-Handbook-04-UM122-English-1.pdf) | [English 1 : Composition](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#english---um1122) | 2 SKS (3.36 ECTS) | 55 (C) | This course discusses the elements of English to enrich the vocabulary, improve the pronunciation of words and improve students' knowledge related to sentence construction, paragraphs and texts that are focused on the development of reading skills, vocabulary skill-building and vocabulary learning strategies. | N/A
+| Compulsory (Wajib) | [IF130](IF130/Module-Handbook-24-IF130-Programming-Fundamentals.pdf) | [Programming Fundamentals](#programming-fundamentals---if130) | 3 SKS (5.04 ECTS) | 55 (C) | This course discusses the design of structured programs, using flowchart and pseudocode, which includes branching, iteration, desk checking, and modular. | N/A
+| Compulsory (Wajib) | [IF120](IF120/Module-Handbook-26-IF120-Discrete-Mathematics.pdf) | [Discrete Mathematics](#discrete-mathematics---if120) | 3 SKS (5.04 ECTS) | 55 (C) | Discrete Mathematics aims to teach students to know and understand the basic concepts of Discrete Mathematics. Some of the materials taught in this course include the basic ideas of sets; Mathematical logic and proof; basic concepts of functions, sequences, and series; relations and relation matrices; introduction to number theory; calculation method; discrete opportunities; recurrence relation; graph and tree theory; and Boolean algebra and circuit combinatorial. | N/A
+| Compulsory (Wajib) | [CE121](CE121/Module-Handbook-28-CE121-Linear-Algebra.pdf) | [Linear Algebra](#linear-algebra---ce121) | 3 SKS (5.04 ECTS) | 55 (C) | This course covers matrix theory and linear algebra, emphasizing topics useful in computer engineering field | N/A
+| Compulsory (Wajib) | [CE232](CE232/Module-Handbook-33-CE232-Digital-Systems.pdf) | [Digital System](#digital-systems---ce232) | 3 SKS (5.04 ECTS) | 55 (C) | This course covers basic digital system including concept of digital system, numbering system and conversion, logic simplification, combination circuit, and sequential circuit | N/A
+| Compulsory (Wajib) | [UM162](CE232/Module-Handbook-33-CE232-Digital-Systems.pdf) | [Pancasila](#pancasila---um162) | 2 SKS (3.36 ECTS) | 55 (C) | This course discusses Pancasila as the basic values of philosophy (philosophical grondslag), the soul of the nation (volksgeist) or the identity of the nation (innerself of nation), ideology of Indonesia, and way of life of the real Indonesia. | N/A
+| Compulsory (Wajib) | [UM152](UM152/Module-Handbook-02-UM152-Religion.pdf) | [Religion](#religion---um152) | 2 SKS (3.36 ECTS) | 55 (C) | This course discusses the Divine Godhead as taught by every Religion in Indonesia and its implications on human life, upholding universal values. | N/A
+| Compulsory (Wajib) | [UM163](UM163/Module-Handbook-07-UM163-Civics.pdf) | [Civics](#civics---um163) | 2 SKS (3.36 ECTS) | 55 (C) | This course develops students' basic competencies to become scientists and professionals who have a sense of nationality and love of the motherland; democratic society; become competent citizens, disciplined, and actively participate in building a peaceful life based on the Pancasila value system.| N/A
+| Compulsory (Wajib) | [UM122](UM122/Module-Handbook-04-UM122-English-1.pdf) | [English 1 : Composition](#english---um1122) | 2 SKS (3.36 ECTS) | 55 (C) | This course discusses the elements of English to enrich the vocabulary, improve the pronunciation of words and improve students' knowledge related to sentence construction, paragraphs and texts that are focused on the development of reading skills, vocabulary skill-building and vocabulary learning strategies. | N/A
 
 ---
 
 ### Programming Fundamentals - IF130
-![Programming Fundamentals](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/programming.jpg)
+![Programming Fundamentals](../assets/programming.jpg)
 
-[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/IF130/Module-Handbook-24-IF130-Programming-Fundamentals.pdf)
+[Click Here for the Full Module](IF130/Module-Handbook-24-IF130-Programming-Fundamentals.pdf)
 
 Materi yang akan dipelajari:
 1. Algorithm
@@ -61,9 +61,9 @@ Materi yang akan dipelajari:
 ---
 
 ### Discrete Mathematics - IF120
-![Discrete Math](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/discretemath.jpg)
+![Discrete Math](../assets/discretemath.jpg)
 
-[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/IF120/Module-Handbook-26-IF120-Discrete-Mathematics.pdf)
+[Click Here for the Full Module](IF120/Module-Handbook-26-IF120-Discrete-Mathematics.pdf)
 
 Materi yang akan dipelajari:
 1. Sets
@@ -115,9 +115,9 @@ Materi yang akan dipelajari:
 ---
 
 ### Linear Algebra - CE121
-![God please dont](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/what.png)
+![God please dont](../assets/what.png)
 
-[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE121/Module-Handbook-28-CE121-Linear-Algebra.pdf)
+[Click Here for the Full Module](CE121/Module-Handbook-28-CE121-Linear-Algebra.pdf)
 
 Materi yang akan dipelajari:
 - Linear combination,
@@ -153,9 +153,9 @@ Materi yang akan dipelajari:
 ---
 
 ### Digital Systems - CE232
-![Digital System](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/digitalsys.jpg)
+![Digital System](../assets/digitalsys.jpg)
 
-[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE232/Module-Handbook-33-CE232-Digital-Systems.pdf)
+[Click Here for the Full Module](CE232/Module-Handbook-33-CE232-Digital-Systems.pdf)
 
 Materi yang akan dipelajari:
 digital systems; number systems, logic gates, digital circuits (sequential, combinational), digital data format, and metode untuk mendesign system digital mudah:
@@ -194,13 +194,13 @@ digital systems; number systems, logic gates, digital circuits (sequential, comb
 **KKM:** 55 (C)
 
 **Materi:**
-1. [M. Morris Mano, Digital Design, 6th Edition, Pearson, 2018](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/CE232/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20(2nd%20Edition).pdf)
+1. [M. Morris Mano, Digital Design, 6th Edition, Pearson, 2018](CE232/Digital%20Logic%20And%20Computer%20Design%20By%20M.%20Morris%20Mano%20(2nd%20Edition).pdf)
 ---
 
 ### Pancasila - UM162
-![Pancasila](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/pancasila.jpg)
+![Pancasila](../assets/pancasila.jpg)
 
-[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM162/Module-Handbook-01-UM162-Pancasila.pdf)
+[Click Here for the Full Module](UM162/Module-Handbook-01-UM162-Pancasila.pdf)
 
 Materi yang akan dipelajari:
 - Pancasila sebagai dasar filosofi (philosophical grondslag),
@@ -236,9 +236,9 @@ Materi yang akan dipelajari:
 ---
 
 ### Religion - UM152
-![Dove](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/religion.png)
+![Dove](../assets/religion.png)
 
-[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM152/Module-Handbook-02-UM152-Religion.pdf)
+[Click Here for the Full Module](UM152/Module-Handbook-02-UM152-Religion.pdf)
 
 Materi yang akan dipelajari:
 Memahami moral dan menghormati perbedaan dengan menerima agama, norma, moral lain.
@@ -268,7 +268,7 @@ Memahami moral dan menghormati perbedaan dengan menerima agama, norma, moral lai
 
 **Materi: (i give up on this one)**
 1. Pendidikan Religiositas, Jakarta: UMN Press, 2018.
-2. [Karen Amstrong, A Short History of Myth, Edinburg: Pentagram, 2005.](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM152/Karen%20Armstrong%20A%20Short%20History%20of%20Myth.pdf)
+2. [Karen Amstrong, A Short History of Myth, Edinburg: Pentagram, 2005.](UM152/Karen%20Armstrong%20A%20Short%20History%20of%20Myth.pdf)
 3. Olaf Schuman Dkk, Agama-Agama Memasuki Milenium Ketiga. Jakarta: Grasindo.2000
 4. Allan Menzies. History of Religion. Yogyakarta: Indoloterasi.2015
 5. Mukti Ali, Agama-agama di Dunia (Yog-yakarta: IAIN Sunan Kalijaga Press, 1988).
@@ -283,9 +283,9 @@ Memahami moral dan menghormati perbedaan dengan menerima agama, norma, moral lai
 ---
 
 ### Civics - UM163
-![Civics](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/civics.jpeg)
+![Civics](../assets/civics.jpeg)
 
-[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Module-Handbook-07-UM163-Civics.pdf)
+[Click Here for the Full Module](UM163/Module-Handbook-07-UM163-Civics.pdf)
 
 Materi yang akan dipelajari:
 Mempelajari untuk memikirkan Etika, Sensitivitas Sosial, efek non-teknikal, Kesehatan, keamanan, dan legalitas dalam aktivitas.
@@ -314,27 +314,27 @@ Mempelajari untuk memikirkan Etika, Sensitivitas Sosial, efek non-teknikal, Kese
 **KKM:** 55 (C)
 
 **Materi:**
-1. [Alexander Frederik de Savornin Lohman. Onze Constitutie. Kemink, Utrecht. 1901](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Onze%20Constitutie.pdf)
-2. [Alexandros Stogiannos. The Genesis of Geopolitics and Friedrich Ratzel – Dismissing the Myth of Ratzelian Geodeterminism. Springer. Geneve. 2019](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/The%20Genesis%20of%20Geopolitics%20and%20Friedrich%20Ratzel-%20Dismissing%20--%20Alexandros%20Stogiannos%20--%20Historical%20Geography%20and%20Geosciences%2C%201st%20ed_%2C%202019%20--%209783319980348%20--%2006dfcd111564a661548e3ee0291a019d%20--%20Anna%E2%80%99s%20Archive.pdf)
-3. [A. V. Dicey. An Introduction to The Study Of The Law Of The Constitution. Tenth Edition. Macmillan Press. London and Basingstoke. Reprinted 1979](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/An%20Introduction%20to%20The%20Study%20Of%20The%20Law%20Of%20The%20Constitution_compressed.pdf)
-4. [Bikhu Parekh. Rethinking Multiculturalism – Cultural Diversity and Political Theory. Macmillan. London. 2000](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Parekh_Rethinking_multiculturalism.pdf)
-5. [Brian W. Blouet ed. Global Geostrategy. Mackinder and The Defence Of The West. Frank Cass. London New York. 2005](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/global-geostrategy-mackinder-and-the-defence-of-the-west-9780714685755-0714685755_compress.pdf)
-6. [C.F. Strong. A History of Modern Political Constitution. GP Putnam & Sons. New York. 1963](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/A%20history%20of%20modern%20political%20constitution%20--%20ff9be9c2b512e1a249a424bec821c0cf%20--%20Anna%E2%80%99s%20Archive_2.pdf)
-7. [Charles Louis De Secondat Baron De Montesquieu. De L’Esprit Des Loix. Chez Barilot Et Fils. Geneve. 1758](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Montesquieu%20-%2004%20L'esprit%20des%20lois.pdf)
-8. [Daniel PS Goh, Matilda Gabrielpillai, Philip Holden, dan Gaik Cheng Khoo eds. Race and Multiculturalism in Malaysia and Singapore. Routhledge. Oxon. 2009](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Multiculturalism%20in%20Malaysia%20and%20singapore.pdf)
-9. [Derek Heater, A History of Education For Citizenship. RoutledgeFalmer. New York. 2004](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/E103_%20History%20of%20and%20Philosophy%20of%20Education%20%5BDerek%20Heater%5D%20A%20History%20of%20Education%20for%20Citizens%20(BookFi).pdf)
-10. [Direktorat Diseminasi Informasi, Deputi Pencegahan BNN. Buku Panduan Pencegahan penyalahgunaan Narkoba Sejak Dini. BNN. Jakarta. 2012](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Buku-Pencegahan-Narkoba-Sejak-Usia-Dini.pdf)
-11. [Douglas W. Blum. National Identity and Globalization – Youth, State, and Society in Post-Soviet Eurasia. Cambridge University Press. Cambridge. 2007](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/National%20Identity%20and%20Globalization.pdf)
-12. [Graham Brooks, David Walsh, Chris Lewis, dan Hakkyong Kim. Preventing Corruption – Investigation, Enforcement, and Governance. Palgrave Macmillan. New York. 2013](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Preventing%20Corruption%20%E2%80%93%20Investigation%2C%20Enforcement%2C%20and%20Governance.pdf)
-13. [Hans Kelsen. Reine Rechtslehre. Osterreichische Staatsdrukerei. Wien. 1992](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/TEORI_HANS_KELSEN_TENTANG_HUKUM.pdf)
+1. [Alexander Frederik de Savornin Lohman. Onze Constitutie. Kemink, Utrecht. 1901](UM163/Onze%20Constitutie.pdf)
+2. [Alexandros Stogiannos. The Genesis of Geopolitics and Friedrich Ratzel – Dismissing the Myth of Ratzelian Geodeterminism. Springer. Geneve. 2019](UM163/The%20Genesis%20of%20Geopolitics%20and%20Friedrich%20Ratzel-%20Dismissing%20--%20Alexandros%20Stogiannos%20--%20Historical%20Geography%20and%20Geosciences%2C%201st%20ed_%2C%202019%20--%209783319980348%20--%2006dfcd111564a661548e3ee0291a019d%20--%20Anna%E2%80%99s%20Archive.pdf)
+3. [A. V. Dicey. An Introduction to The Study Of The Law Of The Constitution. Tenth Edition. Macmillan Press. London and Basingstoke. Reprinted 1979](UM163/An%20Introduction%20to%20The%20Study%20Of%20The%20Law%20Of%20The%20Constitution_compressed.pdf)
+4. [Bikhu Parekh. Rethinking Multiculturalism – Cultural Diversity and Political Theory. Macmillan. London. 2000](UM163/Parekh_Rethinking_multiculturalism.pdf)
+5. [Brian W. Blouet ed. Global Geostrategy. Mackinder and The Defence Of The West. Frank Cass. London New York. 2005](UM163/global-geostrategy-mackinder-and-the-defence-of-the-west-9780714685755-0714685755_compress.pdf)
+6. [C.F. Strong. A History of Modern Political Constitution. GP Putnam & Sons. New York. 1963](UM163/A%20history%20of%20modern%20political%20constitution%20--%20ff9be9c2b512e1a249a424bec821c0cf%20--%20Anna%E2%80%99s%20Archive_2.pdf)
+7. [Charles Louis De Secondat Baron De Montesquieu. De L’Esprit Des Loix. Chez Barilot Et Fils. Geneve. 1758](UM163/Montesquieu%20-%2004%20L'esprit%20des%20lois.pdf)
+8. [Daniel PS Goh, Matilda Gabrielpillai, Philip Holden, dan Gaik Cheng Khoo eds. Race and Multiculturalism in Malaysia and Singapore. Routhledge. Oxon. 2009](UM163/Multiculturalism%20in%20Malaysia%20and%20singapore.pdf)
+9. [Derek Heater, A History of Education For Citizenship. RoutledgeFalmer. New York. 2004](UM163/E103_%20History%20of%20and%20Philosophy%20of%20Education%20%5BDerek%20Heater%5D%20A%20History%20of%20Education%20for%20Citizens%20(BookFi).pdf)
+10. [Direktorat Diseminasi Informasi, Deputi Pencegahan BNN. Buku Panduan Pencegahan penyalahgunaan Narkoba Sejak Dini. BNN. Jakarta. 2012](UM163/Buku-Pencegahan-Narkoba-Sejak-Usia-Dini.pdf)
+11. [Douglas W. Blum. National Identity and Globalization – Youth, State, and Society in Post-Soviet Eurasia. Cambridge University Press. Cambridge. 2007](UM163/National%20Identity%20and%20Globalization.pdf)
+12. [Graham Brooks, David Walsh, Chris Lewis, dan Hakkyong Kim. Preventing Corruption – Investigation, Enforcement, and Governance. Palgrave Macmillan. New York. 2013](UM163/Preventing%20Corruption%20%E2%80%93%20Investigation%2C%20Enforcement%2C%20and%20Governance.pdf)
+13. [Hans Kelsen. Reine Rechtslehre. Osterreichische Staatsdrukerei. Wien. 1992](UM163/TEORI_HANS_KELSEN_TENTANG_HUKUM.pdf)
 14. Iswan Kaputra, Dampak Otonomi Daerah di Indonesia: Merangkai Sejarah Politik dan Pemerintahan Indonesia. Obor. Jakarta. 2013
-15. [John Locke. Two Treatises on Government and a Letter Concerning Toleration. Editor Ian Saphiro. Yale University Press. Connecticut. 2003](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM163/Locke.pdf)
+15. [John Locke. Two Treatises on Government and a Letter Concerning Toleration. Editor Ian Saphiro. Yale University Press. Connecticut. 2003](UM163/Locke.pdf)
 16. Koninlijk Nederland. Territoriale Zee en Marietieme Kringen Ordonantie. S. 442. 1939
 ---
 ### English - UM1122
-![fancy me a cup of tea m8](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/UK.png)
+![fancy me a cup of tea m8](../assets/UK.png)
 
-[Click Here for the Full Module](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/UM122/Module-Handbook-04-UM122-English-1.pdf)
+[Click Here for the Full Module](UM122/Module-Handbook-04-UM122-English-1.pdf)
 
 Materi yang akan dipelajari:
 Vocab, Pronunciation, Sentence construction, reading for academic writing
