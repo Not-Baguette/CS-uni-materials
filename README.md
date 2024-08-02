@@ -17,9 +17,9 @@ materials for my uni studies
 ## How to use this material
 Lihat aja apa yang bakal dipelajarin dalam modul. Pelajarin secara independen. 
 List Semester (Baru bikin semester 1 & 2):
-1. [Semester 1](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem1/README.md)
-2. [Semester 2](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem2/README.md)
-3. [Semester 3](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem2/README.md) (WIP, Lacking in information as the curriculum becomes more specific. Will be requesting for more data soon)
+1. [Semester 1](sem1/README.md)
+2. [Semester 2](sem2/README.md)
+3. [Semester 3](sem3/README.md) (Done, a few modules are missing)
 4. Semester 4
 5. Semester 5
 6. Semester 6
@@ -81,7 +81,7 @@ Kalo udh bisa koding, perdalem teorinya. Terutama Algoritma kayak sorting dan da
 
 ### Advanced/Jago
 kalo udh jago napain baca ini, baca aja dokumentasinya abis itu gas :v
-![Blue archive jumpscare](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/ichika.jpg)
+![Blue archive jumpscare](/assets/ichika.jpg)
 
 ## Body of Knowledge Informatics Study Programme 
 The Informatics study programme is based on curriculum design with the ACM Computing Curricula specification that have been used internationally. The details are as follows and the relationship between study material and topics in Informatics shown in Fig. 1.
@@ -137,7 +137,7 @@ Body of Knowledge in Informatics study programme are:
 
 ---
 ## Organizational Structure
-![Organization Structure](https://github.com/Not-Baguette/CS-uni-materials/blob/main/assets/orgstruct.png)
+![Organization Structure](/assets/orgstruct.png)
 
 ---
 
