@@ -5,10 +5,10 @@
 | --- | --- | --- | --- | --- | --- | ---
 | Compulsory (Wajib) | IF350 | [Software Engineering and Project Management](#software-engineering-and-project-management---if350) | 3 SKS (5.04 ECTS) | 55 (C) | This course student will apply the principles and approaches of software engineering theory and practice and manage them into a software project management that is efficient, within budget, quickly and of good quality. Student will develop a comprehensive project plan using the project of their choice. By the end of this course, student will understand why project management requires a high level of professionalism, and how to achieve that goal in future software projects | N/A
 | Compulsory (Wajib) | [IF330](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem3/IF330/Module-Handbook-30-IF330-Web-Programming.pdf) | [Web Programming](#web-programming---if330) | 3 SKS (5.04 ECTS) | 55 (C) | This course covers web programming using server side scripting (eg. PHP) and database. | [IF231 Introduction to internet technology](https://github.com/Not-Baguette/CS-uni-materials/blob/main/sem2/README.md#introduction-to-internet-technology---if231)
-| Compulsory (Wajib) | IF331 | [Declarative programming]() | 3 SKS (5.04 ECTS) | 55 (C) | Declarative programming is a programming paradigm in which a computer program is formed based on a computational logic structure that can be used to solve a problem. In declarative programming, the source code of a program does not express the control flow of a problem solving. The purpose of using declarative programming is to minimize and eliminate side effects (in the form of bugs) from a program by describing what must be solved based on a problem domain. By understanding declarative programming, besides being able to create programs that are free from side effects, users can also write parallel programs more easily. Logical programming and functional programming are two parts of the declarative programming paradigm. This course will specifically discuss logic programming as part of declarative programming | [IF230 Algorithm and data structure](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem2#algorithm--data-structure---if232)
-| Compulsory (Wajib) | IF332 | [Language Theory & Automata]() |  3 SKS (5.04 ECTS) | 55 (C) | This course studies the formal language, especially for the purposes of designing a compiler and a text processor. Automata are abstract machines that can recognize, accept, or generate a sentence in a particular language. The theory of language and automata is a theory of abstract machines, and is closely related to formal language theory | [IF120 Discrete Mathematics](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#discrete-mathematics---if120)
-| Compulsory (Wajib) | [IF351]() | [Database System]() | 3 SKS (5.04 ECTS) | 55 (C) | This course covers the concepts, terminology, technique used in database management systems. | N/A
-| Compulsory (Wajib) | [CE331]() | [Probability & Statistics]() | 2 SKS (3.36 ECTS) | 55 (C) | $${\color{red} Warning! \space This \space Course \space code \space has \space a \space conflicting \space Course \space Code, \space proceed \space with \space caution!}$$  This course provides the basics of probability distribution and statistical analysis methods, relevant for students of information and communication technology. | [IF120 Discrete Mathematics](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#discrete-mathematics---if120)
+| Compulsory (Wajib) | IF331 | [Declarative programming](#declarative-programming---if331) | 3 SKS (5.04 ECTS) | 55 (C) | Declarative programming is a programming paradigm in which a computer program is formed based on a computational logic structure that can be used to solve a problem. In declarative programming, the source code of a program does not express the control flow of a problem solving. The purpose of using declarative programming is to minimize and eliminate side effects (in the form of bugs) from a program by describing what must be solved based on a problem domain. By understanding declarative programming, besides being able to create programs that are free from side effects, users can also write parallel programs more easily. Logical programming and functional programming are two parts of the declarative programming paradigm. This course will specifically discuss logic programming as part of declarative programming | [IF230 Algorithm and data structure](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem2#algorithm--data-structure---if232)
+| Compulsory (Wajib) | IF332 | [Language Theory & Automata](#language-theory--automata---if332) |  3 SKS (5.04 ECTS) | 55 (C) | This course studies the formal language, especially for the purposes of designing a compiler and a text processor. Automata are abstract machines that can recognize, accept, or generate a sentence in a particular language. The theory of language and automata is a theory of abstract machines, and is closely related to formal language theory | [IF120 Discrete Mathematics](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#discrete-mathematics---if120)
+| Compulsory (Wajib) | [IF351]() | [Database System](#database-system---if351) | 3 SKS (5.04 ECTS) | 55 (C) | This course covers the concepts, terminology, technique used in database management systems. | [IF120 Discrete Mathematics](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#discrete-mathematics---if120)
+| Compulsory (Wajib) | [CE319/IF360]() | [Probability & Statistics]() | 2 SKS (3.36 ECTS) | 55 (C) | $${\color{red} Warning! \space This \space Course \space code \space has \space a \space conflicting \space Course \space Code, \space proceed \space with \space caution!}$$  This course provides the basics of probability distribution and statistical analysis methods, relevant for students of information and communication technology. | [IF120 Discrete Mathematics](https://github.com/Not-Baguette/CS-uni-materials/tree/main/sem1#discrete-mathematics---if120)
 | Compulsory (Wajib) | [UM142]() | [Bahasa Indonesia]() | 2 SKS (3.36 ECTS) | 55 (C) | This course covers the status and function of Bahasa Indonesia (Indonesian Language), traits of Bahasa Indonesia, variety / barrel of language, word and word formation, choice of words, sentences and sentence patterns, the effectiveness of sentences,paragraph development and paragraph sequencing, paraphrase, systematic scientific writing, writing excerpts with the APA system, completeness of papers, oral proficiency in presentations, interviews and arguments. | N/A
 
 ---
@@ -157,3 +157,79 @@ Lab
 **KKM:** 55 (C)
 
 **Materi:** N/A
+
+---
+### Language Theory & Automata - IF332
+
+Materi yang akan dipelajari:
+N/A
+
+**Pemegang Modul:** N/A
+
+**Metode Pembelajaran**: N/A
+
+**Bahasa**: N/A
+
+**SKS:** 3 SKS (5.04 ECTS)
+
+**Jumblah Jam:** N/A
+
+**Asasmen:** N/A
+
+**Distribution:** N/A
+
+**KKM:** 55 (C)
+
+**Materi:** M/A
+
+---
+
+### Database System - IF351
+[Click Here for the Full Module]()
+
+Materi yang akan dipelajari:
+1. Introduction to Database System
+2. Data Modeling Using the Entity-Relationship Model
+3. Relational Data Model, Relational Database Constraints, and Relational Database Design
+4. DDL & DML Statements
+5. SELECT Statement
+6. Transaction Processing, Concurrency, Recovery Techniques
+7. Database Security, Views
+8. Functional Dependencies, Normalization for Relational Databases
+9. Stored Routines, Trigger
+
+**Pemegang Modul:** Dennis Gunawan
+
+**Metode Pembelajaran**: Lecture, Demonstration
+
+**Bahasa**: English & Indonesian
+
+**SKS:** 3 SKS (5.04 ECTS)
+
+**Jumblah Jam:** 136.08
+
+Theory
+
+- 23.34 hours of synchronous lecture.
+- 56.04 hours of Self-study and assignments
+- 11.34 hours related to exam and self study
+
+Lab
+
+- 23.35 hours of lab module (and in-class assistance)
+- 16.34 hours of self-lab and assignments
+- 5.67 hours related to exam and self study
+
+**Asasmen:** Written Test, Proyek
+
+**Distribution:**
+- 30% Assignment
+- 30% Ujian Tengah Semester
+- 40% Ujian Akhir Semester
+
+**KKM:** 55 (C)
+
+**Materi:**
+1. Elmasri, Ramez and Shamkant B. Navathe (2011), Fundamentals of Database Systems, 6th edition, Addison Wesley.
+2. Thomas Connoly and Carolyn Begg (2015), Database Systems A Practical Approach to Design, Implementation, and Management, 6th edition, Pearson Education, ISBN 13: 978-1-292-06118-4, Essex, England
+---
