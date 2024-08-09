@@ -6,11 +6,12 @@ materials for my uni studies
 | --- | --- |
 | 1. | [How to use this material](#how-to-use-this-material) |
 | 2. | [Very short Guide for Laptops](#very-short-guide-for-laptops) |
-| 3. | [Other Resources](#other-resources) |
-| 4. | [Aplikasi-aplikasi untuk Kuliahan](#aplikasi-aplikasi-untuk-kuliahan)
-| 5. | [Body of Knowledge Informatics Study Programme](#body-of-knowledge-informatics-study-programme) |
-| 6. | [Organizational Structure](#organizational-structure)
-| 7. | [How did I get this material](#how-did-i-get-this-material)
+| 3. | [Programming Study Resources](#programming-study-resources) |
+| 4. | [Other Resources](#other-resources)
+| 5. | [Aplikasi-aplikasi untuk Kuliahan](#aplikasi-aplikasi-untuk-kuliahan)
+| 6. | [Body of Knowledge Informatics Study Programme](#body-of-knowledge-informatics-study-programme) |
+| 7. | [Organizational Structure](#organizational-structure) |
+| 8. | [How did I get this material](#how-did-i-get-this-material) |
 
 ---
 
@@ -30,7 +31,7 @@ List Semester (Baru bikin semester 1 & 2):
 
 ## Very short Guide for Laptops
 ### Brand
-- Hindarin Brand HP karena Engsel/Hingenya suka patah + Kualitas Buildnya Jelek, Cari palingan Dell/Lenovo. Acer/Asus Juga Oke. Hindarin Lenovo seri Yoga juga
+- Hindarin Brand HP karena Engsel/Hingenya suka patah + Kualitas Buildnya Jelek, Cari palingan Dell/Lenovo. Acer/Asus Juga Oke. Hindarin Lenovo seri Yoga juga. Jangan ambil chromebook
 
 ### Modal
 - Modal 20Juta Keatas:
@@ -59,13 +60,14 @@ List Semester (Baru bikin semester 1 & 2):
 
 ---
 
-## Other Resources
+## Programming Study Resources
 ### Beginner/Pemula
 Kalo baru mulai, mendingan Belajar C dari C Programming full course dibawah karena sekalian sama materi semester 1.
 - [CS50x (Agak intensif)](https://cs50.harvard.edu/x/2024/weeks/)
 - [Freecodecamp](https://www.youtube.com/@freecodecamp)
 - [C Programming full course by Bro Code](https://www.youtube.com/watch?v=87SH2Cn0s9A)
-- [Kelas Terbuka](https://www.youtube.com/@KelasTerbuka)
+- [Kelas Terbuka](https://www.youtube.com/@KelasTerbuka), Bahasa Indonesia
+- [Codepolitan](https://www.codepolitan.com/)
 
 ### Intermediate
 Kalo udh bisa koding, perdalem teorinya. Terutama Algoritma kayak sorting dan data structure. Abis itu pelajarin Big O notation untuk menghitung efesiensi program
@@ -83,6 +85,14 @@ Kalo udh bisa koding, perdalem teorinya. Terutama Algoritma kayak sorting dan da
 kalo udh jago napain baca ini, baca aja dokumentasinya abis itu gas :v
 ![Blue archive jumpscare](/assets/ichika.jpg)
 
+---
+## Other Resources
+- Matematika
+   - https://www.youtube.com/@Bermatematika
+   - https://youtube.com/@gradient3012
+   - https://www.youtube.com/@warsomadjohan3453
+
+---
 ## Body of Knowledge Informatics Study Programme 
 The Informatics study programme is based on curriculum design with the ACM Computing Curricula specification that have been used internationally. The details are as follows and the relationship between study material and topics in Informatics shown in Fig. 1.
 Topics in Informatics Study Programme based on ACM Computing Curricula :
@@ -128,12 +138,19 @@ Body of Knowledge in Informatics study programme are:
 - Entertainment
    - [Youtube Revanced](https://revanced.app/), Youtube tanpa Advertizing + Kustomisasi
 
+- Studies
+   - [Notion](https://www.notion.so/), notetaking
+  
 ### PC
 - Music
    - [Th-ch's Youtube Music](https://th-ch.github.io/youtube-music/)
    - [Spotube](https://spotube.krtirtho.dev/), Frontend Spotify. Bisa download music, Liat lyrics, dan log in biar bisa play playlist dsb.
 - Entertainment
    - [uBlock Origin](https://ublockorigin.com/), Adblocker
+
+- Studies
+   - [Visual Studio Code](https://code.visualstudio.com/), lightweight code editor
+   - []()
 
 ---
 ## Organizational Structure
