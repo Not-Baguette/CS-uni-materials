@@ -73,7 +73,8 @@ Kalo baru mulai, mendingan Belajar C dari C Programming full course dibawah kare
 Kalo udh bisa koding, perdalem teorinya. Terutama Algoritma kayak sorting dan data structure. Abis itu pelajarin Big O notation untuk menghitung efesiensi program
 - [Data Structure & Algorithms in C](https://www.youtube.com/watch?v=CBYHwZcbD-s)
 - [Data Structure % Algorithms in Python](https://www.youtube.com/watch?v=8hly31xKli0)
-- [Pointers in C](https://youtu.be/DplxIq0mc_Y) (Bagi yang baru selesai belajar bahasa lain kyk Python)
+- [The Sound of Sorting](assets/sound-of-sorting-0.6.5.exe), Visualisasi sorting algorithm
+- [Pointers in C](https://youtu.be/DplxIq0mc_Y), Bagi yang baru selesai belajar bahasa lain kyk Python
 - Operating System (Windows/Mac/Linux)
 - Process/Threads (Pengertian & Multiprocessing/Multithreading)
 - Concurrency (Executing multiple things at once)
