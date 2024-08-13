@@ -1,5 +1,5 @@
 # CS-uni-materials
-materials for my uni studies
+materials for my uni studies (note: feeling lazy rn, will be continuing this between now and the end of the world)
 
 ## Table of Contents
 | No. | Subject |
