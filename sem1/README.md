@@ -1,5 +1,7 @@
 ## Semester 1
 
+### All the materials below has materials original from the University
+
 ### 1st Semester Table
 | Status | Code | Course | Credits (SKS) | Minimum Passing Grade (KKM) | Description | Prerequisite
 | --- | --- | --- | --- | --- | --- | ---
